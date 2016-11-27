@@ -1,5 +1,5 @@
 // Yazar: Joseph Dattilo (Virtuabotix LLC) - Version 0.4.5 (11/11/11)
-// Düzenleme: Uğur Demir
+// Düzenleme: Uğur Demir 27/11/2016
 
 #include <dht11.h> // dht11 kütüphanesini ekliyoruz.
 #define DHT11PIN 2 // DHT11PIN olarak Dijital 2'yi belirliyoruz.

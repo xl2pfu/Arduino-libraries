@@ -1,4 +1,3 @@
-// Yazar: Joseph Dattilo (Virtuabotix LLC) - Version 0.4.5 (11/11/11)
 // Düzenleme: Uğur Demir 27/11/2016
 
 #include <dht11.h> // dht11 kütüphanesini ekliyoruz.
@@ -9,7 +8,7 @@ dht11 DHT11;
 void setup()
 {
   Serial.begin(9600); // Seri iletişimi başlatıyoruz.
-  Serial.println("Arduinoturkiye.com DHT11 Test Programi");
+  Serial.println("DHT11 Test Programi");
 }
 
 void loop()
